@@ -14,11 +14,11 @@
 
 //chenage4 from unittestmodel2
 //this is change after git atrributes addition to test model2
-<<<<<<< HEAD
+
 //this change from unittestmodel1
-=======
+
 //this is change from unittestmodel2 -  same some!!!!
->>>>>>> 9b39fdaf92eb5f9ae861d6253693cb93473ab986
+
 
 
 import UIKit
