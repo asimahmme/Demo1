@@ -4,11 +4,9 @@
 //
 //  Created by DemoCI on 03.22.18.
 //  Copyright © 2018 DemoCI. All rights reserved.
-<<<<<<< HEAD
+
 // New tester_unit_model
-=======
-//  This is from tester branch - should monitor changes 
->>>>>>> 8dd5baa6dae0553da60f634260748b006293afad
+//  This is from tester branch - should monitor changes
 //
 
 import XCTest
