@@ -26,7 +26,7 @@ class FirstDemoTests: XCTestCase {
   
   func test_NumberOfVowels_WhenPassedDominik_ReturnsThree() {
     
-    let string = "Dominik"
+    let string = "Santini"
     
     let numberOfVowels = viewController.numberOfVowels(in: string)
     
