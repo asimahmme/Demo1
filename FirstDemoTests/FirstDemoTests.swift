@@ -39,10 +39,10 @@ class FirstDemoTests: XCTestCase {
     let expectedOutput  = "This Is A Test Headline"
     
     
-    let headline = viewController.makeHeadline(from: input)
+    let headlines = viewController.makeHeadline(from: input)
     
     
-    XCTAssertEqual(headline, expectedOutput)
+    XCTAssertEqual(headlines, expectedOutput)
   }
   
   func test_MakeHeadline_ReturnsStringWithEachWordStartCapital2() {
